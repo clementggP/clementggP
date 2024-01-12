@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Clément
-- 👀 I’m currently working as System Architect in Siemens for the BFC Gateway softweare
-- 🌱 I’m currently working in a micro service service architecture, event driven and data processing focused - 
-- 💞️ I love k8s, Cloud Native, thinking how everything interact as a global solution, 
+- 👀 I’m currently working as senior cloud DevOps
+- 💞️ I love k8s, Cloud Native, thinking how everything interact together as a global solution, and automate as much as possible everything
 - 📫 You can contact me on my lindedIn [https://www.linkedin.com/in/clementpierret/](https://www.linkedin.com/in/clementpierret/)
 
 <!---
